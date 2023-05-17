@@ -1,6 +1,3 @@
-# ml-projects
-My Machine Learning Projects
-
 # ML Projects
 The notebooks starting without TensorFlow are projects that i used fundamental machine learning algorithms like linear regression, logistic regression, decision trees, naive bayes, svm..
 Other notebooks that starts with TensorFlow are my deep learning projects
