@@ -4,7 +4,5 @@ Other notebooks that starts with TensorFlow are my deep learning projects
 
 # TensorFlow MobileNetV2 Fine-Tuning with cats_vs_dogs
 I classified cats vs dogs in this notebook with fine-tuning MobileNetV2 architecture
-# TensorFlow ile Makaleyi Parçalara Ayırma Projesi 
-This is a NLP project that partions a paper's abstract in (objective, methods, results, conclusion and background) to make it more easily readible.
 # TensorFlow Turkish Movie Review Sentiment Analysis with Transformers
 I used BERT transformer model for this NLP project. This model can classify a turkish movie review.
